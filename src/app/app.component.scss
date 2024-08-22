@@ -1,0 +1,5 @@
+@import "abstracts";
+
+.main-container {
+  height: calc(100vh - $HeaderHeight - $FooterHeight);
+}
